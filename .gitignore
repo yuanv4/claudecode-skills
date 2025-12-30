@@ -1,0 +1,9 @@
+# 忽略所有
+*
+
+# 不忽略 .gitignore 本身
+!.gitignore
+
+# 不忽略 skills 目录及其内容
+!skills/
+!skills/**
