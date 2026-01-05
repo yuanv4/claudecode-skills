@@ -7,3 +7,7 @@
 # 不忽略 skills 目录及其内容
 !skills/
 !skills/**
+
+# 不忽略 skills 目录及其内容
+!commands/
+!commands/**
